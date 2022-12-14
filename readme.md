@@ -8,4 +8,6 @@
 -
 
 4. 사용한 기술 스택
--
+-Spring
+-Java
+-Gradle
